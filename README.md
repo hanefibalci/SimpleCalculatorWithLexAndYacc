@@ -1,4 +1,4 @@
-# Aritmetik İfade Hesaplayıcı
+# Aritmetik İfade Hesaplayıcı  Hanefi Balcı
 
 Bu proje, basit aritmetik ifadeleri hesaplayan bir hesap makinesi uygulamasıdır. Flex (lexer) ve Bison (parser) kullanılarak geliştirilmiştir.
 
